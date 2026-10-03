@@ -12,7 +12,7 @@
   <a href="https://upstackhq.com/team/mustkeem"><img src="https://img.shields.io/badge/Upstack-Top_1%25-6C47FF?style=for-the-badge" /></a>
 </p>
 
-**🟢 Open to Senior / Lead Full Stack roles · Remote (NZ/APAC, EU and US-morning overlap)**
+**🟢 Open to Senior Full Stack roles · Remote (NZ/APAC, EU and US-morning overlap)**
 
 </div>
 
