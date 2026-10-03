@@ -2,7 +2,7 @@
 
 # Hi, I'm Mustkeem 👋
 
-<a href="https://mustkeemk.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Senior+Full+Stack+Engineer;React+%7C+Next.js+%7C+NestJS+%7C+Node.js+%7C+TypeScript;Marketplaces+%E2%80%A2+Payments+%E2%80%A2+High-traffic+systems;Remote-first+since+2020+%F0%9F%8C%8F" alt="Typing SVG" /></a>
+<a href="https://mustkeemk.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Senior+Full+Stack+Engineer;React+%7C+Next.js+%7C+Nest.js+%7C+Node.js+%7C+TypeScript;Marketplaces+%E2%80%A2+Payments+%E2%80%A2+High-traffic+systems;Remote-first+since+2020+%F0%9F%8C%8F" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://linkedin.com/in/mustkeemk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +20,7 @@
 
 ### 🚀 About me
 
-Senior Full Stack Engineer with **9+ years** building and operating high-traffic TypeScript products end to end. I'm currently a senior engineer at **[VeVe](https://www.veve.me)**, a **3.2M-MAU** digital collectibles marketplace processing **$26M+ in annual GMV** across collectibles, digital comics, wallets and bank payouts.
+Senior Full Stack Engineer with **9+ years** building and operating high-traffic TypeScript products end to end. I'm currently a senior engineer at **[VeVe](https://www.veve.me)**, a **3.2M-MAU** digital collectibles marketplace spanning collectibles, digital comics, wallets and bank payouts.
 
 I'm known for RFC-driven architecture, payment-grade reliability, Next.js performance and helping teams ship faster without breaking things. I also mentor, interview and push AI-native development with Claude Code.
 
@@ -54,7 +54,7 @@ I'm known for RFC-driven architecture, payment-grade reliability, Next.js perfor
 
 **Backend**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -90,7 +90,7 @@ I'm known for RFC-driven architecture, payment-grade reliability, Next.js perfor
 ### 💼 Experience
 
 **🏢 VeVe (ECOMI)** · Senior Full Stack Engineer, Marketplace & Payments · *Sep 2021 - Present*
-- Built the **live-drop engine** from scratch (NestJS GraphQL, Redis virtual waiting room, Bull queues), p99 checkout under 450 ms across 400+ drops
+- Built the **live-drop engine** from scratch (Nest.js GraphQL, Redis virtual waiting room, Bull queues), p99 checkout under 450 ms across 400+ drops
 - Designed **idempotent checkout and payout flows** (idempotency keys, transactional outbox, deduplicating Kafka consumers) while GMV grew 1.8x
 - Moved 60+ storefront routes to the **Next.js App Router** with RSC and ISR, and co-created an 84-component **design system** used by 5 squads
 - Migrated **3.2M accounts** to FusionAuth (OAuth 2.0/OIDC, MFA) with zero forced logouts, and cut KYC verification from 3 days to 11 minutes
@@ -111,7 +111,7 @@ I'm known for RFC-driven architecture, payment-grade reliability, Next.js perfor
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Project Yo](https://github.com/mustkem/Twitter-Backend-NestJS)** | Twitter-style backend in NestJS microservices with an API gateway, Kafka events, Elasticsearch search and CI/CD to AWS | NestJS · Kafka · MySQL · Redis · DynamoDB · Terraform |
+| **[Project Yo](https://github.com/mustkem/Twitter-Backend-NestJS)** | Twitter-style backend in Nest.js microservices with an API gateway, Kafka events, Elasticsearch search and CI/CD to AWS | Nest.js · Kafka · MySQL · Redis · DynamoDB · Terraform |
 | **[Hacker News SSR](https://github.com/mustkem/hacker-news-ssr)** | Server-rendered Hacker News client built from scratch with no SSR framework | React · Express · Webpack · Redux · Jest |
 
 ---
@@ -120,7 +120,7 @@ I'm known for RFC-driven architecture, payment-grade reliability, Next.js perfor
 
 - 📚 **8,000+ Stack Overflow reputation** answering JavaScript, React and Node.js questions
 - 🥇 Recognized as **top 1% talent worldwide** by [Upstack](https://upstackhq.com/team/mustkeem)
-- ✍️ Author of **187 NestJS tutorials** plus series on TypeScript, Node.js, testing, Git and Webpack
+- ✍️ Author of **187 Nest.js tutorials** plus series on TypeScript, Node.js, testing, Git and Webpack
 - 🎓 B.Tech in Computer Science
 
 ---
