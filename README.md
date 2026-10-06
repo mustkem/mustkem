@@ -20,7 +20,7 @@
 
 ### 🚀 About me
 
-Senior Full Stack Engineer with **9+ years** building and operating high-traffic TypeScript products end to end. I'm currently a senior engineer at **[VeVe](https://www.veve.me)**, a **3.2M-MAU** digital collectibles marketplace spanning collectibles, digital comics, wallets and bank payouts.
+Senior Full Stack Engineer with **9+ years** building and operating high-traffic software products end to end. I'm currently a senior engineer at **[VeVe](https://www.veve.me)**, a **3.2M-MAU** digital collectibles marketplace spanning collectibles, digital comics, wallets and bank payouts.
 
 I'm known for RFC-driven architecture, payment-grade reliability, Next.js performance and helping teams ship faster without breaking things. I also mentor, interview and push AI-native development with Claude Code.
 
